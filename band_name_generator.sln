@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "band_name_generator", "band_name_generator\band_name_generator.pyproj", "{BB855A17-0A73-473B-9020-C500C196A9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB855A17-0A73-473B-9020-C500C196A9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB855A17-0A73-473B-9020-C500C196A9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2C9074-4D95-4F4A-AA95-BA49709E6436}
+	EndGlobalSection
+EndGlobal
